@@ -1,16 +1,5 @@
-## 文件系统
-
-# 列表页
-- current_dir
-- current_list
-    - current_file1
-    - current_list_dir1
-    - ...
-
-# 详情页
-- current_dir
-- current_file
-    - current_file_content
-    - ...
-
-
+# 实现简单的文件服务器系统
+   仅能实现
+   - static
+       - files
+       - dir(暂时不支持)
